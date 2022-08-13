@@ -30,4 +30,4 @@ Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e
 
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/enzogms/dataDriven-py/blob/main/dataDriven.ipynb)
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/enzogms/webScraping-py/blob/main/webScraping.ipynb)
